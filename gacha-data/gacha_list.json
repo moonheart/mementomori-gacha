@@ -1,0 +1,1664 @@
+[
+  {
+    "DisplayOrder": 19000,
+    "ElementType": 0,
+    "EndTime": 4102416000000,
+    "GachaBonusDrawCount": 122,
+    "GachaBonusInfoList": [
+      {
+        "GachaBonusCount": 20,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 100,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 25,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 120,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 150,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 150,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 200,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 25,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 220,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 250,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 250,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 300,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 26,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      }
+    ],
+    "GachaButtonInfoList": [
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 20,
+        "GachaButtonId": 1,
+        "LotteryCount": 1
+      },
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 3000,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 10,
+        "GachaButtonId": 2,
+        "LotteryCount": 10
+      }
+    ],
+    "GachaCaseId": 1,
+    "GachaCaseUiId": 1,
+    "GachaCategoryType": 0,
+    "GachaGroupType": 0,
+    "GachaRelicType": 0,
+    "GachaSelectCharacterIdList": [
+      8,
+      6,
+      7,
+      5,
+      10,
+      20,
+      17,
+      15,
+      16,
+      18,
+      26,
+      27,
+      28,
+      29,
+      25,
+      39,
+      35,
+      37,
+      38,
+      36
+    ],
+    "GachaSelectListType": 1,
+    "MaxDrawGold": 0,
+    "RemainingDrawGold": 0,
+    "GachaDrawCount": 0,
+    "GachaCeilingCount": 0,
+    "GachaCaseFlags": 0
+  },
+  {
+    "DisplayOrder": 18000,
+    "ElementType": 0,
+    "EndTime": 4102416000000,
+    "GachaBonusDrawCount": 0,
+    "GachaBonusInfoList": [],
+    "GachaButtonInfoList": [
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 50,
+          "ItemId": 1,
+          "ItemType": 23
+        },
+        "DisplayOrder": 20,
+        "GachaButtonId": 3,
+        "LotteryCount": 1
+      },
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 500,
+          "ItemId": 1,
+          "ItemType": 23
+        },
+        "DisplayOrder": 10,
+        "GachaButtonId": 4,
+        "LotteryCount": 10
+      }
+    ],
+    "GachaCaseId": 2,
+    "GachaCaseUiId": 2,
+    "GachaCategoryType": 0,
+    "GachaGroupType": 0,
+    "GachaRelicType": 0,
+    "GachaSelectCharacterIdList": [],
+    "GachaSelectListType": 0,
+    "MaxDrawGold": 0,
+    "RemainingDrawGold": 0,
+    "GachaDrawCount": 0,
+    "GachaCeilingCount": 0,
+    "GachaCaseFlags": 0
+  },
+  {
+    "DisplayOrder": 17000,
+    "ElementType": 1,
+    "EndTime": 1697428800000,
+    "GachaBonusDrawCount": 122,
+    "GachaBonusInfoList": [
+      {
+        "GachaBonusCount": 20,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 100,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 25,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 120,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 150,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 150,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 200,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 25,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 220,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 250,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 250,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 300,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 26,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      }
+    ],
+    "GachaButtonInfoList": [
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 1,
+          "ItemId": 3,
+          "ItemType": 16
+        },
+        "DisplayOrder": 20,
+        "GachaButtonId": 5,
+        "LotteryCount": 1
+      },
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 10,
+          "ItemId": 3,
+          "ItemType": 16
+        },
+        "DisplayOrder": 10,
+        "GachaButtonId": 6,
+        "LotteryCount": 10
+      }
+    ],
+    "GachaCaseId": 3,
+    "GachaCaseUiId": 3,
+    "GachaCategoryType": 0,
+    "GachaGroupType": 1,
+    "GachaRelicType": 0,
+    "GachaSelectCharacterIdList": [
+      8,
+      6,
+      7,
+      5,
+      10,
+      20,
+      17,
+      15,
+      16,
+      18,
+      26,
+      27,
+      28,
+      29,
+      25,
+      39,
+      35,
+      37,
+      38,
+      36
+    ],
+    "GachaSelectListType": 1,
+    "MaxDrawGold": 0,
+    "RemainingDrawGold": 0,
+    "GachaDrawCount": 0,
+    "GachaCeilingCount": 0,
+    "GachaCaseFlags": 0
+  },
+  {
+    "DisplayOrder": 16000,
+    "ElementType": 2,
+    "EndTime": 1697428800000,
+    "GachaBonusDrawCount": 122,
+    "GachaBonusInfoList": [
+      {
+        "GachaBonusCount": 20,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 100,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 25,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 120,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 150,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 150,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 200,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 25,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 220,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 250,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 250,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 300,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 26,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      }
+    ],
+    "GachaButtonInfoList": [
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 1,
+          "ItemId": 3,
+          "ItemType": 16
+        },
+        "DisplayOrder": 20,
+        "GachaButtonId": 7,
+        "LotteryCount": 1
+      },
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 10,
+          "ItemId": 3,
+          "ItemType": 16
+        },
+        "DisplayOrder": 10,
+        "GachaButtonId": 8,
+        "LotteryCount": 10
+      }
+    ],
+    "GachaCaseId": 4,
+    "GachaCaseUiId": 4,
+    "GachaCategoryType": 0,
+    "GachaGroupType": 1,
+    "GachaRelicType": 0,
+    "GachaSelectCharacterIdList": [
+      8,
+      6,
+      7,
+      5,
+      10,
+      20,
+      17,
+      15,
+      16,
+      18,
+      26,
+      27,
+      28,
+      29,
+      25,
+      39,
+      35,
+      37,
+      38,
+      36
+    ],
+    "GachaSelectListType": 1,
+    "MaxDrawGold": 0,
+    "RemainingDrawGold": 0,
+    "GachaDrawCount": 0,
+    "GachaCeilingCount": 0,
+    "GachaCaseFlags": 0
+  },
+  {
+    "DisplayOrder": 15000,
+    "ElementType": 3,
+    "EndTime": 1697428800000,
+    "GachaBonusDrawCount": 122,
+    "GachaBonusInfoList": [
+      {
+        "GachaBonusCount": 20,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 100,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 25,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 120,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 150,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 150,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 200,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 25,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 220,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 250,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 250,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 300,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 26,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      }
+    ],
+    "GachaButtonInfoList": [
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 1,
+          "ItemId": 3,
+          "ItemType": 16
+        },
+        "DisplayOrder": 20,
+        "GachaButtonId": 9,
+        "LotteryCount": 1
+      },
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 10,
+          "ItemId": 3,
+          "ItemType": 16
+        },
+        "DisplayOrder": 10,
+        "GachaButtonId": 10,
+        "LotteryCount": 10
+      }
+    ],
+    "GachaCaseId": 5,
+    "GachaCaseUiId": 5,
+    "GachaCategoryType": 0,
+    "GachaGroupType": 1,
+    "GachaRelicType": 0,
+    "GachaSelectCharacterIdList": [
+      8,
+      6,
+      7,
+      5,
+      10,
+      20,
+      17,
+      15,
+      16,
+      18,
+      26,
+      27,
+      28,
+      29,
+      25,
+      39,
+      35,
+      37,
+      38,
+      36
+    ],
+    "GachaSelectListType": 1,
+    "MaxDrawGold": 0,
+    "RemainingDrawGold": 0,
+    "GachaDrawCount": 0,
+    "GachaCeilingCount": 0,
+    "GachaCaseFlags": 0
+  },
+  {
+    "DisplayOrder": 14000,
+    "ElementType": 4,
+    "EndTime": 1697428800000,
+    "GachaBonusDrawCount": 122,
+    "GachaBonusInfoList": [
+      {
+        "GachaBonusCount": 20,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 100,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 25,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 120,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 150,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 150,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 200,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 25,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 220,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 250,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 250,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 300,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 26,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      }
+    ],
+    "GachaButtonInfoList": [
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 1,
+          "ItemId": 3,
+          "ItemType": 16
+        },
+        "DisplayOrder": 20,
+        "GachaButtonId": 11,
+        "LotteryCount": 1
+      },
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 10,
+          "ItemId": 3,
+          "ItemType": 16
+        },
+        "DisplayOrder": 10,
+        "GachaButtonId": 12,
+        "LotteryCount": 10
+      }
+    ],
+    "GachaCaseId": 6,
+    "GachaCaseUiId": 6,
+    "GachaCategoryType": 0,
+    "GachaGroupType": 1,
+    "GachaRelicType": 0,
+    "GachaSelectCharacterIdList": [
+      8,
+      6,
+      7,
+      5,
+      10,
+      20,
+      17,
+      15,
+      16,
+      18,
+      26,
+      27,
+      28,
+      29,
+      25,
+      39,
+      35,
+      37,
+      38,
+      36
+    ],
+    "GachaSelectListType": 1,
+    "MaxDrawGold": 0,
+    "RemainingDrawGold": 0,
+    "GachaDrawCount": 0,
+    "GachaCeilingCount": 0,
+    "GachaCaseFlags": 0
+  },
+  {
+    "DisplayOrder": 13000,
+    "ElementType": 0,
+    "EndTime": 4102416000000,
+    "GachaBonusDrawCount": 0,
+    "GachaBonusInfoList": [],
+    "GachaButtonInfoList": [
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 500,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 20,
+        "GachaButtonId": 13,
+        "LotteryCount": 1
+      },
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 5000,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 10,
+        "GachaButtonId": 14,
+        "LotteryCount": 10
+      }
+    ],
+    "GachaCaseId": 7,
+    "GachaCaseUiId": 7,
+    "GachaCategoryType": 0,
+    "GachaGroupType": 0,
+    "GachaRelicType": 0,
+    "GachaSelectCharacterIdList": [
+      8
+    ],
+    "GachaSelectListType": 2,
+    "MaxDrawGold": 0,
+    "RemainingDrawGold": 0,
+    "GachaDrawCount": 49,
+    "GachaCeilingCount": 70,
+    "GachaCaseFlags": 1
+  },
+  {
+    "DisplayOrder": 29000,
+    "ElementType": 0,
+    "EndTime": 1697428800000,
+    "GachaBonusDrawCount": 5,
+    "GachaBonusInfoList": [
+      {
+        "GachaBonusCount": 10,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 11,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 20,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 12,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      }
+    ],
+    "GachaButtonInfoList": [
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 20,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 40,
+        "GachaButtonId": 19,
+        "LotteryCount": 1
+      },
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 200,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 30,
+        "GachaButtonId": 20,
+        "LotteryCount": 10
+      }
+    ],
+    "GachaCaseId": 9,
+    "GachaCaseUiId": 8,
+    "GachaCategoryType": 1,
+    "GachaGroupType": 0,
+    "GachaRelicType": 0,
+    "GachaSelectCharacterIdList": [],
+    "GachaSelectListType": 0,
+    "MaxDrawGold": 0,
+    "RemainingDrawGold": 0,
+    "GachaDrawCount": 0,
+    "GachaCeilingCount": 0,
+    "GachaCaseFlags": 0
+  },
+  {
+    "DisplayOrder": 28000,
+    "ElementType": 0,
+    "EndTime": 4102416000000,
+    "GachaBonusDrawCount": 7,
+    "GachaBonusInfoList": [
+      {
+        "GachaBonusCount": 10,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 13,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 20,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 14,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      }
+    ],
+    "GachaButtonInfoList": [
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 60,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 20,
+        "GachaButtonId": 21,
+        "LotteryCount": 1
+      },
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 600,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 10,
+        "GachaButtonId": 22,
+        "LotteryCount": 10
+      }
+    ],
+    "GachaCaseId": 10,
+    "GachaCaseUiId": 9,
+    "GachaCategoryType": 1,
+    "GachaGroupType": 0,
+    "GachaRelicType": 0,
+    "GachaSelectCharacterIdList": [],
+    "GachaSelectListType": 0,
+    "MaxDrawGold": 0,
+    "RemainingDrawGold": 0,
+    "GachaDrawCount": 0,
+    "GachaCeilingCount": 0,
+    "GachaCaseFlags": 0
+  },
+  {
+    "DisplayOrder": 27000,
+    "ElementType": 0,
+    "EndTime": 4102416000000,
+    "GachaBonusDrawCount": 5,
+    "GachaBonusInfoList": [
+      {
+        "GachaBonusCount": 10,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 15,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 20,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 16,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      }
+    ],
+    "GachaButtonInfoList": [
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 20,
+        "GachaButtonId": 23,
+        "LotteryCount": 1
+      },
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 3000,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 10,
+        "GachaButtonId": 24,
+        "LotteryCount": 10
+      }
+    ],
+    "GachaCaseId": 11,
+    "GachaCaseUiId": 10,
+    "GachaCategoryType": 1,
+    "GachaGroupType": 0,
+    "GachaRelicType": 0,
+    "GachaSelectCharacterIdList": [],
+    "GachaSelectListType": 0,
+    "MaxDrawGold": 0,
+    "RemainingDrawGold": 0,
+    "GachaDrawCount": 0,
+    "GachaCeilingCount": 0,
+    "GachaCaseFlags": 0
+  },
+  {
+    "DisplayOrder": 25000,
+    "ElementType": 0,
+    "EndTime": 1697428800000,
+    "GachaBonusDrawCount": 10,
+    "GachaBonusInfoList": [
+      {
+        "GachaBonusCount": 10,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 7,
+          "ItemType": 13
+        },
+        "LotteryProbability": 20
+      },
+      {
+        "GachaBonusCount": 10,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 3,
+          "ItemType": 13
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 10,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 1,
+          "ItemType": 13
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 25,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 7,
+          "ItemType": 13
+        },
+        "LotteryProbability": 40
+      },
+      {
+        "GachaBonusCount": 25,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 3,
+          "ItemType": 13
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 25,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 1,
+          "ItemType": 13
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 7,
+          "ItemType": 13
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 3,
+          "ItemType": 13
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 1,
+          "ItemType": 13
+        },
+        "LotteryProbability": 100
+      }
+    ],
+    "GachaButtonInfoList": [
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 40,
+        "GachaButtonId": 29,
+        "LotteryCount": 1
+      },
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 4500,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 20,
+        "GachaButtonId": 31,
+        "LotteryCount": 15
+      }
+    ],
+    "GachaCaseId": 13,
+    "GachaCaseUiId": 12,
+    "GachaCategoryType": 1,
+    "GachaGroupType": 2,
+    "GachaRelicType": 2,
+    "GachaSelectCharacterIdList": [],
+    "GachaSelectListType": 0,
+    "MaxDrawGold": 0,
+    "RemainingDrawGold": 0,
+    "GachaDrawCount": 0,
+    "GachaCeilingCount": 0,
+    "GachaCaseFlags": 0
+  },
+  {
+    "DisplayOrder": 22000,
+    "ElementType": 0,
+    "EndTime": 1697428800000,
+    "GachaBonusDrawCount": 7,
+    "GachaBonusInfoList": [
+      {
+        "GachaBonusCount": 4,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 1,
+          "ItemType": 13
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 15,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 1,
+          "ItemType": 13
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 25,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 1,
+          "ItemType": 13
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 35,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 1,
+          "ItemType": 13
+        },
+        "LotteryProbability": 100
+      }
+    ],
+    "GachaButtonInfoList": [
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 20,
+        "GachaButtonId": 41,
+        "LotteryCount": 1
+      },
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 3000,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 10,
+        "GachaButtonId": 42,
+        "LotteryCount": 10
+      }
+    ],
+    "GachaCaseId": 16,
+    "GachaCaseUiId": 15,
+    "GachaCategoryType": 1,
+    "GachaGroupType": 0,
+    "GachaRelicType": 0,
+    "GachaSelectCharacterIdList": [],
+    "GachaSelectListType": 0,
+    "MaxDrawGold": 0,
+    "RemainingDrawGold": 0,
+    "GachaDrawCount": 1,
+    "GachaCeilingCount": 10,
+    "GachaCaseFlags": 1
+  },
+  {
+    "DisplayOrder": 19563,
+    "ElementType": 0,
+    "EndTime": 1697610599000,
+    "GachaBonusDrawCount": 122,
+    "GachaBonusInfoList": [
+      {
+        "GachaBonusCount": 20,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 100,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 25,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 120,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 150,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 150,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 200,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 25,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 220,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 250,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 250,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 300,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 26,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      }
+    ],
+    "GachaButtonInfoList": [
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 20,
+        "GachaButtonId": 134,
+        "LotteryCount": 1
+      },
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 3000,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 10,
+        "GachaButtonId": 135,
+        "LotteryCount": 10
+      }
+    ],
+    "GachaCaseId": 63,
+    "GachaCaseUiId": 63,
+    "GachaCategoryType": 0,
+    "GachaGroupType": 0,
+    "GachaRelicType": 0,
+    "GachaSelectCharacterIdList": [
+      8,
+      6,
+      7,
+      5,
+      10,
+      20,
+      17,
+      15,
+      16,
+      18,
+      26,
+      27,
+      28,
+      29,
+      25,
+      39,
+      35,
+      37,
+      38,
+      36
+    ],
+    "GachaSelectListType": 1,
+    "MaxDrawGold": 0,
+    "RemainingDrawGold": 0,
+    "GachaDrawCount": 0,
+    "GachaCeilingCount": 100,
+    "GachaCaseFlags": 1
+  },
+  {
+    "DisplayOrder": 19062,
+    "ElementType": 0,
+    "EndTime": 1698128999000,
+    "GachaBonusDrawCount": 122,
+    "GachaBonusInfoList": [
+      {
+        "GachaBonusCount": 20,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 50,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 100,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 25,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 120,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 150,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 150,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 200,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 25,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 220,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 250,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 8,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 250,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 6,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      },
+      {
+        "GachaBonusCount": 300,
+        "GachaBonusItem": {
+          "ItemCount": 0,
+          "ItemId": 26,
+          "ItemType": 17
+        },
+        "LotteryProbability": 100
+      }
+    ],
+    "GachaButtonInfoList": [
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 20,
+        "GachaButtonId": 136,
+        "LotteryCount": 1
+      },
+      {
+        "ConsumeUserItem": {
+          "ItemCount": 3000,
+          "ItemId": 1,
+          "ItemType": 1
+        },
+        "DisplayOrder": 10,
+        "GachaButtonId": 137,
+        "LotteryCount": 10
+      }
+    ],
+    "GachaCaseId": 64,
+    "GachaCaseUiId": 64,
+    "GachaCategoryType": 0,
+    "GachaGroupType": 0,
+    "GachaRelicType": 0,
+    "GachaSelectCharacterIdList": [
+      8,
+      6,
+      7,
+      5,
+      10,
+      20,
+      17,
+      15,
+      16,
+      18,
+      26,
+      27,
+      28,
+      29,
+      25,
+      39,
+      35,
+      37,
+      38,
+      36
+    ],
+    "GachaSelectListType": 1,
+    "MaxDrawGold": 0,
+    "RemainingDrawGold": 0,
+    "GachaDrawCount": 0,
+    "GachaCeilingCount": 100,
+    "GachaCaseFlags": 1
+  }
+]

@@ -1,0 +1,228 @@
+{
+  "GachaBonusRateList": [
+    {
+      "GachaCount": 10,
+      "GachaItemRateList": [
+        {
+          "CharacterRarityFlags": 1,
+          "AddItem": null,
+          "LotteryRate": 0.2,
+          "Item": {
+            "ItemCount": 1,
+            "ItemId": 7,
+            "ItemType": 13
+          }
+        }
+      ],
+      "Index": 1
+    },
+    {
+      "GachaCount": 10,
+      "GachaItemRateList": [
+        {
+          "CharacterRarityFlags": 1,
+          "AddItem": null,
+          "LotteryRate": 1.0,
+          "Item": {
+            "ItemCount": 1000,
+            "ItemId": 3,
+            "ItemType": 13
+          }
+        }
+      ],
+      "Index": 2
+    },
+    {
+      "GachaCount": 10,
+      "GachaItemRateList": [
+        {
+          "CharacterRarityFlags": 1,
+          "AddItem": null,
+          "LotteryRate": 1.0,
+          "Item": {
+            "ItemCount": 2,
+            "ItemId": 1,
+            "ItemType": 13
+          }
+        }
+      ],
+      "Index": 3
+    },
+    {
+      "GachaCount": 25,
+      "GachaItemRateList": [
+        {
+          "CharacterRarityFlags": 1,
+          "AddItem": null,
+          "LotteryRate": 0.4,
+          "Item": {
+            "ItemCount": 1,
+            "ItemId": 7,
+            "ItemType": 13
+          }
+        }
+      ],
+      "Index": 1
+    },
+    {
+      "GachaCount": 25,
+      "GachaItemRateList": [
+        {
+          "CharacterRarityFlags": 1,
+          "AddItem": null,
+          "LotteryRate": 1.0,
+          "Item": {
+            "ItemCount": 1500,
+            "ItemId": 3,
+            "ItemType": 13
+          }
+        }
+      ],
+      "Index": 2
+    },
+    {
+      "GachaCount": 25,
+      "GachaItemRateList": [
+        {
+          "CharacterRarityFlags": 1,
+          "AddItem": null,
+          "LotteryRate": 1.0,
+          "Item": {
+            "ItemCount": 3,
+            "ItemId": 1,
+            "ItemType": 13
+          }
+        }
+      ],
+      "Index": 3
+    },
+    {
+      "GachaCount": 50,
+      "GachaItemRateList": [
+        {
+          "CharacterRarityFlags": 1,
+          "AddItem": null,
+          "LotteryRate": 1.0,
+          "Item": {
+            "ItemCount": 1,
+            "ItemId": 7,
+            "ItemType": 13
+          }
+        }
+      ],
+      "Index": 1
+    },
+    {
+      "GachaCount": 50,
+      "GachaItemRateList": [
+        {
+          "CharacterRarityFlags": 1,
+          "AddItem": null,
+          "LotteryRate": 1.0,
+          "Item": {
+            "ItemCount": 2500,
+            "ItemId": 3,
+            "ItemType": 13
+          }
+        }
+      ],
+      "Index": 2
+    },
+    {
+      "GachaCount": 50,
+      "GachaItemRateList": [
+        {
+          "CharacterRarityFlags": 1,
+          "AddItem": null,
+          "LotteryRate": 1.0,
+          "Item": {
+            "ItemCount": 5,
+            "ItemId": 1,
+            "ItemType": 13
+          }
+        }
+      ],
+      "Index": 3
+    }
+  ],
+  "GachaItemRateList": [
+    {
+      "CharacterRarityFlags": 1,
+      "AddItem": null,
+      "LotteryRate": 0.2,
+      "Item": {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": 12
+      }
+    },
+    {
+      "CharacterRarityFlags": 1,
+      "AddItem": null,
+      "LotteryRate": 0.1,
+      "Item": {
+        "ItemCount": 3,
+        "ItemId": 2,
+        "ItemType": 12
+      }
+    },
+    {
+      "CharacterRarityFlags": 1,
+      "AddItem": null,
+      "LotteryRate": 0.15,
+      "Item": {
+        "ItemCount": 3,
+        "ItemId": 1,
+        "ItemType": 19
+      }
+    },
+    {
+      "CharacterRarityFlags": 1,
+      "AddItem": null,
+      "LotteryRate": 0.15,
+      "Item": {
+        "ItemCount": 1,
+        "ItemId": 1,
+        "ItemType": 20
+      }
+    },
+    {
+      "CharacterRarityFlags": 1,
+      "AddItem": null,
+      "LotteryRate": 0.15,
+      "Item": {
+        "ItemCount": 20,
+        "ItemId": 4,
+        "ItemType": 13
+      }
+    },
+    {
+      "CharacterRarityFlags": 1,
+      "AddItem": null,
+      "LotteryRate": 0.1,
+      "Item": {
+        "ItemCount": 1,
+        "ItemId": 2,
+        "ItemType": 15
+      }
+    },
+    {
+      "CharacterRarityFlags": 1,
+      "AddItem": null,
+      "LotteryRate": 0.15,
+      "Item": {
+        "ItemCount": 1,
+        "ItemId": 1,
+        "ItemType": 15
+      }
+    }
+  ],
+  "GachaItemRateSpecialList": [],
+  "GachaRarityRateList": [
+    {
+      "CharacterRarityFlags": 1,
+      "LotteryRate": 1.0
+    }
+  ],
+  "GachaRarityRateSpecialList": []
+}

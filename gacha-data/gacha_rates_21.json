@@ -1,0 +1,106 @@
+{
+  "GachaBonusRateList": [
+    {
+      "GachaCount": 10,
+      "GachaItemRateList": [
+        {
+          "CharacterRarityFlags": 1,
+          "AddItem": null,
+          "LotteryRate": 1.0,
+          "Item": {
+            "ItemCount": 1,
+            "ItemId": 13,
+            "ItemType": 17
+          }
+        }
+      ],
+      "Index": 1
+    },
+    {
+      "GachaCount": 20,
+      "GachaItemRateList": [
+        {
+          "CharacterRarityFlags": 1,
+          "AddItem": null,
+          "LotteryRate": 1.0,
+          "Item": {
+            "ItemCount": 1,
+            "ItemId": 14,
+            "ItemType": 17
+          }
+        }
+      ],
+      "Index": 1
+    }
+  ],
+  "GachaItemRateList": [
+    {
+      "CharacterRarityFlags": 1,
+      "AddItem": null,
+      "LotteryRate": 0.12,
+      "Item": {
+        "ItemCount": 1,
+        "ItemId": 13,
+        "ItemType": 17
+      }
+    },
+    {
+      "CharacterRarityFlags": 1,
+      "AddItem": null,
+      "LotteryRate": 0.12,
+      "Item": {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": 17
+      }
+    },
+    {
+      "CharacterRarityFlags": 1,
+      "AddItem": null,
+      "LotteryRate": 0.06,
+      "Item": {
+        "ItemCount": 1,
+        "ItemId": 1,
+        "ItemType": 19
+      }
+    },
+    {
+      "CharacterRarityFlags": 1,
+      "AddItem": null,
+      "LotteryRate": 0.2,
+      "Item": {
+        "ItemCount": 40,
+        "ItemId": 1,
+        "ItemType": 12
+      }
+    },
+    {
+      "CharacterRarityFlags": 1,
+      "AddItem": null,
+      "LotteryRate": 0.25,
+      "Item": {
+        "ItemCount": 4,
+        "ItemId": 4,
+        "ItemType": 13
+      }
+    },
+    {
+      "CharacterRarityFlags": 1,
+      "AddItem": null,
+      "LotteryRate": 0.25,
+      "Item": {
+        "ItemCount": 3,
+        "ItemId": 1,
+        "ItemType": 19
+      }
+    }
+  ],
+  "GachaItemRateSpecialList": [],
+  "GachaRarityRateList": [
+    {
+      "CharacterRarityFlags": 1,
+      "LotteryRate": 1.0
+    }
+  ],
+  "GachaRarityRateSpecialList": []
+}
